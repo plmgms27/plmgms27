@@ -1,4 +1,4 @@
 # Olá! Meu nome é Paloma Gomes! 😄
 
-- 👋 Sou de Manaus-AM, tenho 32 anos, sou publicitária há 10 anos e atualmente estou em transição de carreira, buscando conhecimento em desenvolvimento web e análise de dados.
+- 👋 Sou de Manaus-AM, mas moro em Curitiba há 2 anos, tenho 34 anos, sou publicitária há 12 e atualmente estou buscando conhecimento em desenvolvimento web e análise de dados.
 - 🌱 Atualmente estou estudando HTML, CSS, Javascript, Python e SQL.
