@@ -45,7 +45,6 @@ Estou desenvolvendo habilidades para unir **criatividade, estratégia e dados** 
 ---
 
 ## Meu objetivo
-
 Quero evoluir na construção de análises mais estratégicas, com apoio de tecnologia e inteligência artificial, transformando dados em insights úteis e acionáveis.
 
 ---
