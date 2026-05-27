@@ -5,8 +5,6 @@ Sou publicitária, com atuação em inteligência de mercado e marketing estrat�
 ## Sobre mim
 
 - 🎓 Publicitária com experiência em marketing digital, inteligência de mercado e análise de dados
-- 📍 Moro em Curitiba - PR
-- 🌎 Sou de Manaus - AM
 - 📊 Tenho interesse em comportamento do consumidor, performance de marcas e social listening
 - 🚀 Estou em transição e evolução constante na área de dados e tecnologia
 
